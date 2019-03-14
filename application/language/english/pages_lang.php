@@ -4,7 +4,7 @@ $lang['lang_th'] = 'ภาษาไทย';
 $lang['lang_en'] = 'English';
 $lang['lang_jp'] = '日本語';
 
-$lang['nav_home1'] = 'Home';
+$lang['nav_home1'] = 'Homes';
 $lang['nav_news'] = 'News';
 $lang['nav_course'] = 'Course';
 $lang['nav_events'] = 'Events';

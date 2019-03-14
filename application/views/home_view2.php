@@ -13,11 +13,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<p><a href="?lang=en"> eng </a></p>
 
 	<?php 
+	echo '<h4> lang </h4>';
 
-	// echo lang('nav_home');
+	echo lang('nav_home');
+	echo ' // ';
+	echo lang('nav_news');
+	echo ' // ';
+	echo lang('nav_course');
 	// echo '<hr>';
-	// //echo $name['name_'.$language]; 
-	// echo '<hr>';
+	//echo $name['name_'.$language]; 
+	echo '<hr>';
 	//echo $mails;
 
 	foreach ($mails as $value) {

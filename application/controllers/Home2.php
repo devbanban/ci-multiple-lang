@@ -12,6 +12,7 @@ class Home2 extends CI_Controller {
 
  	public function index()
 	{
+		
 	    $data['mails'] = $this->mail_model->get_all_mail(); 
 		$data['language']=$this->session->userdata('language');
 

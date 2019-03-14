@@ -5,9 +5,9 @@ $lang['lang_th'] = 'ภาษาไทย';
 $lang['lang_en'] = 'English';
 $lang['lang_jp'] = '日本語';
 
-$lang['nav_home'] = 'กกกก';
-$lang['nav_news'] = 'News';
-$lang['nav_course'] = 'Course';
+$lang['nav_home'] = 'หน้าหลัก';
+$lang['nav_news'] = 'ข่าว';
+$lang['nav_course'] = 'คอร์ส';
 $lang['nav_events'] = 'Events';
 $lang['nav_our_history'] = 'Our History';
 $lang['nav_about_us'] = 'About Us';
